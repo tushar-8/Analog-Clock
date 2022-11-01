@@ -11,7 +11,7 @@ ___
 - JavaScript
 ___
 ### How to run:
-- Open terminal. Type `git clone https://github.com/ShubhanshuJha/Analog-Clock.git` and hit enter.
+- Open terminal. Type `git clone https://github.com/tushar-8/Analog-Clock.git and hit enter.
 - Go to the `Analog-Clock` directory.
 - Open the `index.html` file using your browser.
 
